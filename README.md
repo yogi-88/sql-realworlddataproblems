@@ -46,7 +46,8 @@ bring in the data from somewhere else. for simplicty, let's ignore this group an
 ![image](https://github.com/yogi-88/sql-realworlddataproblems/assets/116275181/e67227b0-c204-4dc5-a774-623a74af1bcf)
 
 ##### Quick Summary of our result for this business problem 
-
+1. This results in the distribution of the num link clicks variable. We can clearly see how many users are clicking the email link each number of times.
+2. It looks like half of the users that engage with the link return to the email to click the link multiple times, like twice or even thrice.
 
 
 ## Data Transformation in SQL with CASE:
