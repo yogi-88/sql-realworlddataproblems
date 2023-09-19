@@ -2,7 +2,7 @@
 Solving Real world data problems with SQL
 
 
-## CTE practice:
+## Product Analytics in SQL with CTEs:
 
 ### Calculating descriptive statistics for monthly revenue by product
 
