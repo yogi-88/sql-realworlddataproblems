@@ -20,3 +20,11 @@ for gleaning quick insights. Instead, you decide to calculate something more hig
 This will equip leadership with a quick summary of the revenue and consistency thate ach product provided last year.
 
 ![image](https://github.com/yogi-88/sql-realworlddataproblems/assets/116275181/23be11a2-1626-4907-a042-b10e2f7a8eee)
+
+## Data Transformation in SQL with CASE:
+
+## Combining Multiple Data Sources in SQL with UNION:
+
+## Dealing with Hierarchical Data in SQL with Self Joins:
+
+## Solving Advanced Problems in SQL with Window Functions:
