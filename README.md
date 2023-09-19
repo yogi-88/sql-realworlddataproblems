@@ -49,6 +49,12 @@ bring in the data from somewhere else. for simplicty, let's ignore this group an
 1. This results in the distribution of the num link clicks variable. We can clearly see how many users are clicking the email link each number of times.
 2. It looks like half of the users that engage with the link return to the email to click the link multiple times, like twice or even thrice.
 
+### Payment funnel analysis with multiple CTEs
+
+#### Business problem:
+
+![image](https://github.com/yogi-88/sql-realworlddataproblems/assets/116275181/b4d0d0ed-986b-4488-9479-c14a58956653)
+
 
 ## Data Transformation in SQL with CASE:
 
